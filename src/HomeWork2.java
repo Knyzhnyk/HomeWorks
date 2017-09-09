@@ -20,5 +20,10 @@ public class HomeWork2 {
         System.out.println("Вік:"  + " " + age);
 
         System.out.println("Людина на ім'я" + " " + name + " " + "проживає в" +" " + city + " . "+ "Цій людині"+ " " + age + " " + "років і вона любить займатися" + " " + hobby + ".");
+
+        System.out.println(name+ "- імя");
+        System.out.println(city + " - місто");
+        System.out.println(age + " - вік");
+        System.out.println(hobby + " - хобі");
     }
 }
